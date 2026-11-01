@@ -2,7 +2,7 @@
   "meta": {
     "leaderboard": "text-to-image",
     "source_url": "https://arena.ai/leaderboard/text-to-image",
-    "fetched_at": "2026-03-20T06:43:55.236800+00:00",
+    "fetched_at": "2026-03-21T05:12:05.599980+00:00",
     "last_updated": null,
     "model_count": 51
   },
@@ -290,7 +290,7 @@
       "rank": 32,
       "model": "flux-2-klein-9b",
       "vendor": "Black Forest Labs",
-      "license": null,
+      "license": "open",
       "score": 1066,
       "ci": 4,
       "votes": 56977
