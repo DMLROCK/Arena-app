@@ -2,9 +2,9 @@
   "meta": {
     "leaderboard": "vision",
     "source_url": "https://arena.ai/leaderboard/vision",
-    "fetched_at": "2026-03-24T05:46:26.479540+00:00",
+    "fetched_at": "2026-03-25T05:46:33.165212+00:00",
     "last_updated": "Mar 19, 2026",
-    "model_count": 30
+    "model_count": 20
   },
   "models": [
     {
@@ -186,96 +186,6 @@
       "score": 1224,
       "ci": 13,
       "votes": 2381
-    },
-    {
-      "rank": 21,
-      "model": "qwen3.5-122b-a10b",
-      "vendor": "Alibaba",
-      "license": "open",
-      "score": 1222,
-      "ci": 13,
-      "votes": 2692
-    },
-    {
-      "rank": 22,
-      "model": "ernie-5.0-preview-1220",
-      "vendor": "Baidu",
-      "license": "proprietary",
-      "score": 1220,
-      "ci": 11,
-      "votes": 3427
-    },
-    {
-      "rank": 23,
-      "model": "o3-2025-04-16",
-      "vendor": "OpenAI",
-      "license": "proprietary",
-      "score": 1216,
-      "ci": 7,
-      "votes": 48878
-    },
-    {
-      "rank": 24,
-      "model": "qwen3-vl-235b-a22b-instruct",
-      "vendor": "Alibaba",
-      "license": "open",
-      "score": 1214,
-      "ci": 8,
-      "votes": 12959
-    },
-    {
-      "rank": 25,
-      "model": "gpt-4.1-2025-04-14",
-      "vendor": "OpenAI",
-      "license": "proprietary",
-      "score": 1213,
-      "ci": 7,
-      "votes": 44082
-    },
-    {
-      "rank": 26,
-      "model": "gemini-2.5-flash",
-      "vendor": "Google",
-      "license": "proprietary",
-      "score": 1213,
-      "ci": 6,
-      "votes": 52058
-    },
-    {
-      "rank": 27,
-      "model": "gpt-5-high",
-      "vendor": "OpenAI",
-      "license": "proprietary",
-      "score": 1207,
-      "ci": 7,
-      "votes": 36969
-    },
-    {
-      "rank": 28,
-      "model": "claude-sonnet-4-20250514-thinking-32k",
-      "vendor": "Anthropic",
-      "license": "proprietary",
-      "score": 1206,
-      "ci": 17,
-      "votes": 1220
-    },
-    {
-      "rank": 29,
-      "model": "claude-opus-4-20250514-thinking-16k",
-      "vendor": "Anthropic",
-      "license": "proprietary",
-      "score": 1205,
-      "ci": 16,
-      "votes": 1392
-    },
-    {
-      "rank": 30,
-      "model": "gpt-4.1-mini-2025-04-14",
-      "vendor": "OpenAI",
-      "license": "proprietary",
-      "score": 1201,
-      "ci": 8,
-      "votes": 43302
     }
   ]
 }
